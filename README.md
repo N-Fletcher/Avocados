@@ -13,3 +13,13 @@ Secondly, I noticed that just about every value that represents quantity is a de
 
 
 ## Data Cleaning
+My first calculations when cleaning a data set is to check for duplicates. There is no identifier column, which leaves the duplicate-finding process up to my creativity. I thought the column with the most unique values to likely be the total volume column, so that's the one I used. To my surprise, there were a handful of rows that had duplicate total volume values. These were a matter of coincidence, however, as no full rows were the same. Below are the duplicate values if you don't believe me.
+
+![](images/dup-sample.png)
+
+The final odd detail that I cleaned up was some of the location values. These values included cities, states, regions, and the U.S. total. Regions (such as MidWest, South Central, West) pose a problem because although we may have a good idea of where these regions lie, it's never clearly defined. Due to Kiggins not specifying exact parameters, the data associated with these regions is unclear, possibly inaccurate, and shouldn't be taken seriously. 
+
+That said, there were only one or two sets of entries with entire states. I decided to delete these entries as well. Finally, the deletion of hundreds of rows of data makes the U.S. total column inaccurate, forcing me to delete it as well. With those variables removed, we're left with a more consistent and reliable data set with data only from U.S. cities.
+
+
+## Conclusion
