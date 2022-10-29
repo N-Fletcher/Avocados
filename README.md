@@ -23,3 +23,5 @@ That said, there were only one or two sets of entries with entire states. I deci
 
 
 ## Conclusion
+
+The data set used in this project was definitely far from flawless. However, there is more than enough data for us to analyze and draw interesting conclusions from. Even after the aforementioned edits, we're left with 11 columns and 14,873 rows (14 and 18,250 originally) of usable data covering cities across the United States. One variable that must be kept in mind is the questionability of the volume counts. For the sake of accuracy I left the rounding to be done in analysis, so we need to remember to keep an eye on thoes values. All things considered, Kiggins provided a lot of well-organized data about avocados and now it's up to us to decide what that data is telling us.
