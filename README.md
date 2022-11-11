@@ -1,5 +1,5 @@
 # Avocados Data Overview
-The data backing this project and sequential blog post was provided by a gentleman named Justin Kiggins (here)[https://www.kaggle.com/datasets/neuromusic/avocado-prices] on Kaggle. For those who don't know, Kaggle is a website where people can post and retrieve public data sets. This particular data set stores avocado sales data from various areas across the United States from 2015-2018. More details regarding the data set can be found through the provided link although he was not as extensive in his explanation has he maybe should have been. I'll discuss this later.
+The data backing this project and sequential blog post was provided by a gentleman named Justin Kiggins [here](https://www.kaggle.com/datasets/neuromusic/avocado-prices) on Kaggle. For those who don't know, Kaggle is a website where people can post and retrieve public data sets. This particular data set stores avocado sales data from various areas across the United States from 2015-2018. More details regarding the data set can be found through the provided link although he was not as extensive in his explanation has he maybe should have been. I'll discuss this later.
 
 
 ### Sample
